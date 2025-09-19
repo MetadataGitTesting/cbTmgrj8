@@ -1,0 +1,66 @@
+name: waltraud.maggio
+description: regional
+version: 0.0.1
+author: j4tauhh7.c3aelyiw@p4dysoy6.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: waltraudmaggio
+  parentArtefactID: j4tauhh7c3aelyiwp4dysoy6comteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:34:18'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:34:18'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:34:18.372766Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1237781015'
+  createdAt: '2025-09-19T23:34:18.372766Z'
+  type: plibMaven
+projectDependencies:
+  '313':
+    projectUID: 313
+    projectName: nana.bruen
+    repositoryPath: gitUri=http://gitserver:3000/dev_zIE6a9eS_team_575/dev_zIE6a9eS_project_313.git&subPath=
+    version: nana.bruen/0.41.464
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:34:13'
+  '325':
+    projectUID: 325
+    projectName: trisha.ernser
+    repositoryPath: gitUri=http://gitserver:3000/dev_zIE6a9eS_team_575/dev_KBCcjtEI_project_325.git&subPath=
+    version: trisha.ernser/0.7.6.983
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:34:18'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
